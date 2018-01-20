@@ -1,2 +1,2 @@
-# myGeratProject
+# myGreatOne
 This is awesome
